@@ -1,6 +1,6 @@
-token=«· Êﬂ‰ 
-owner=«œÌ » ⁄ﬂ 
-prefix= 1
-game= 1help
+token=NTI3OTAwNTIwNjg2NTUxMDUx.Dwadiw.Jt1WrvkHqcifVst2I_V2VWHCmQA
+owner=444918581659172864
+prefix= z
+game= Zhelp
 stayinchannel=true
 songinstatus=true 
