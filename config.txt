@@ -1,6 +1,6 @@
-token=NTI3OTAwNTIwNjg2NTUxMDUx.Dwadiw.Jt1WrvkHqcifVst2I_V2VWHCmQA
-owner=444918581659172864
-prefix= z
-game= Zhelp
+token=NTI3ODkxNTk2NzcyMTE0NDcy.XOABPA.DbBc8T4pHXhS2VaFIUaCUd-skwc
+owner=500351379865468930
+prefix= 2
+game= 2help
 stayinchannel=true
 songinstatus=true 
